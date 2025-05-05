@@ -4,52 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2OAG4eOp1EBQrfEzibIT-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2OAG4eOp1EBQrfEzibIT-22" target="2OAG4eOp1EBQrfEzibIT-33">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="180" y="95" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="2OAG4eOp1EBQrfEzibIT-30" value="数据预处理" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;" vertex="1" connectable="0" parent="2OAG4eOp1EBQrfEzibIT-26">
-          <mxGeometry x="-0.0625" y="-1" relative="1" as="geometry">
-            <mxPoint x="1" y="7" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="2OAG4eOp1EBQrfEzibIT-22" value="多个传感器" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.cpu;labelBackgroundColor=default;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="50.77" y="40" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="2OAG4eOp1EBQrfEzibIT-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2OAG4eOp1EBQrfEzibIT-23" target="2OAG4eOp1EBQrfEzibIT-34">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="180" y="180" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="2OAG4eOp1EBQrfEzibIT-31" value="气象平台" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2OAG4eOp1EBQrfEzibIT-29">
-          <mxGeometry x="-0.0493" y="-1" relative="1" as="geometry">
-            <mxPoint x="1" y="7" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="2OAG4eOp1EBQrfEzibIT-23" value="API接口" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.networking;labelBackgroundColor=default;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="150" y="40" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="2OAG4eOp1EBQrfEzibIT-33" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;line-height: 0%; font-size: 10px;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); font-size: 10px;&quot;&gt;标准运行&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;line-height: 0%; font-size: 10px;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); font-size: 10px;&quot;&gt;数据集CRD&lt;/span&gt;&lt;/p&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#000000;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.datastore;gradientColor=none;spacingTop=0;labelBackgroundColor=default;labelBorderColor=none;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="51.15000000000001" y="130" width="19.23" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="2OAG4eOp1EBQrfEzibIT-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2OAG4eOp1EBQrfEzibIT-34">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="160" y="225" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="2OAG4eOp1EBQrfEzibIT-34" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;line-height: 0%; font-size: 10px;&quot;&gt;环境温度TEN&lt;/p&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#000000;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.datastore;gradientColor=none;spacingTop=0;labelBackgroundColor=default;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="150.77" y="130" width="19.23" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="2OAG4eOp1EBQrfEzibIT-41" value="故障诊断特征向量" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.datacenter;" vertex="1" parent="1">
-          <mxGeometry x="30" y="240" width="67.57" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="2OAG4eOp1EBQrfEzibIT-46" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="2OAG4eOp1EBQrfEzibIT-33" target="2OAG4eOp1EBQrfEzibIT-41">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="50" y="260" as="sourcePoint" />
-            <mxPoint x="100" y="210" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
