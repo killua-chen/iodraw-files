@@ -108,6 +108,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="2OAG4eOp1EBQrfEzibIT-70" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2OAG4eOp1EBQrfEzibIT-68">
+          <mxGeometry x="0.1963" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2OAG4eOp1EBQrfEzibIT-69" value="故障点分析&lt;div&gt;报告FPR&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="520" width="80" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
