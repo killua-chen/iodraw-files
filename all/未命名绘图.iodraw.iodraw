@@ -12,7 +12,7 @@
         </mxCell>
         <mxCell id="2OAG4eOp1EBQrfEzibIT-49" value="采集并预处理" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2OAG4eOp1EBQrfEzibIT-48">
           <mxGeometry x="-0.3746" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-1" y="11" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2OAG4eOp1EBQrfEzibIT-50" value="标准运行&lt;div&gt;数据集CRD&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
