@@ -1,35 +1,11 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="emhLpGDSjGB5kLqIUGSS">
-    <mxGraphModel dx="440" dy="684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="439" dy="469" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2OAG4eOp1EBQrfEzibIT-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2OAG4eOp1EBQrfEzibIT-11" target="2OAG4eOp1EBQrfEzibIT-12">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="2OAG4eOp1EBQrfEzibIT-11" value="数据采集预处理模块" style="rounded=1;whiteSpace=wrap;align=center;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="120" y="40" width="160" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="2OAG4eOp1EBQrfEzibIT-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2OAG4eOp1EBQrfEzibIT-12" target="2OAG4eOp1EBQrfEzibIT-13">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="2OAG4eOp1EBQrfEzibIT-12" value="故障诊断特征构建模块" style="rounded=1;whiteSpace=wrap;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="120" y="120" width="160" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="2OAG4eOp1EBQrfEzibIT-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2OAG4eOp1EBQrfEzibIT-13" target="2OAG4eOp1EBQrfEzibIT-14">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="2OAG4eOp1EBQrfEzibIT-13" value="风险评估与分析模块" style="rounded=1;whiteSpace=wrap;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="120" y="200" width="160" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="2OAG4eOp1EBQrfEzibIT-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2OAG4eOp1EBQrfEzibIT-14" target="2OAG4eOp1EBQrfEzibIT-15">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="2OAG4eOp1EBQrfEzibIT-14" value="报警决策执行模块" style="rounded=1;whiteSpace=wrap;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="120" y="280" width="160" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="2OAG4eOp1EBQrfEzibIT-15" value="迭代优化模块" style="rounded=1;whiteSpace=wrap;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="120" y="360" width="160" height="40" as="geometry" />
+        <mxCell id="2OAG4eOp1EBQrfEzibIT-20" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="64" y="90" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
