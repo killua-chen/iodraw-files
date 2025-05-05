@@ -11,11 +11,11 @@
         </mxCell>
         <mxCell id="2OAG4eOp1EBQrfEzibIT-30" value="数据预处理" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2OAG4eOp1EBQrfEzibIT-26">
           <mxGeometry x="-0.0625" y="-1" relative="1" as="geometry">
-            <mxPoint x="1" as="offset" />
+            <mxPoint x="1" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2OAG4eOp1EBQrfEzibIT-22" value="多个传感器" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.cpu;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="50" y="40" width="20" height="20" as="geometry" />
+          <mxGeometry x="50.77" y="40" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2OAG4eOp1EBQrfEzibIT-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2OAG4eOp1EBQrfEzibIT-23" target="2OAG4eOp1EBQrfEzibIT-34">
           <mxGeometry relative="1" as="geometry">
