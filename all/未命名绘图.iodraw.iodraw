@@ -30,6 +30,9 @@
         <mxCell id="2OAG4eOp1EBQrfEzibIT-23" value="API接口" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.networking;" vertex="1" parent="1">
           <mxGeometry x="70" y="150" width="20" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="2OAG4eOp1EBQrfEzibIT-33" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.datastore;" vertex="1" parent="1">
+          <mxGeometry x="180" y="76" width="50" height="39" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
