@@ -19,7 +19,7 @@
         <mxCell id="2OAG4eOp1EBQrfEzibIT-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2OAG4eOp1EBQrfEzibIT-4" target="2OAG4eOp1EBQrfEzibIT-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2OAG4eOp1EBQrfEzibIT-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2OAG4eOp1EBQrfEzibIT-4" value="S3、基于故障诊断特征向量DFV，构建整体故障风险评估算法，计算整体故障风险分数FRS，基于整体故障风险分数FRS与0级故障风险阈值FTL_0的对比结果和整体故障风险评估算法，进行故障点分析并生成故障点分析报告FPR；" style="rounded=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="40" y="240" width="480" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2OAG4eOp1EBQrfEzibIT-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2OAG4eOp1EBQrfEzibIT-5" target="2OAG4eOp1EBQrfEzibIT-6">
