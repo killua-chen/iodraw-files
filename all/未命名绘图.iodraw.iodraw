@@ -136,7 +136,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="2OAG4eOp1EBQrfEzibIT-74" value="报警信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="470" width="120" height="60" as="geometry" />
+          <mxGeometry x="480" y="480" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
