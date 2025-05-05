@@ -90,7 +90,7 @@
             <mxPoint x="340" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2OAG4eOp1EBQrfEzibIT-64" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2OAG4eOp1EBQrfEzibIT-63">
+        <mxCell id="2OAG4eOp1EBQrfEzibIT-64" value="整体故障风险评估算法" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2OAG4eOp1EBQrfEzibIT-63">
           <mxGeometry x="-0.0229" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
