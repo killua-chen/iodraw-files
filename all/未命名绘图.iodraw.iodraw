@@ -30,7 +30,7 @@
         <mxCell id="2OAG4eOp1EBQrfEzibIT-23" value="API接口" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.networking;" vertex="1" parent="1">
           <mxGeometry x="70" y="170" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="2OAG4eOp1EBQrfEzibIT-33" value="&lt;p style=&quot;line-height: 0%;&quot; class=&quot;MsoNormal&quot;&gt;标准运行&lt;/p&gt;&lt;p style=&quot;line-height: 0%;&quot; class=&quot;MsoNormal&quot;&gt;数据集CRD&lt;/p&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=default;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.datastore;" vertex="1" parent="1">
+        <mxCell id="2OAG4eOp1EBQrfEzibIT-33" value="&lt;p style=&quot;line-height: 0%;&quot; class=&quot;MsoNormal&quot;&gt;标准运行&lt;/p&gt;&lt;p style=&quot;line-height: 0%;&quot; class=&quot;MsoNormal&quot;&gt;数据集CRD&lt;/p&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#000000;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.datastore;" vertex="1" parent="1">
           <mxGeometry x="210" y="85" width="19.23" height="15" as="geometry" />
         </mxCell>
       </root>
