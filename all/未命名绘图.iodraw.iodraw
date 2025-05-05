@@ -50,7 +50,7 @@
           <mxGeometry x="150.77" y="130" width="19.23" height="15" as="geometry" />
         </mxCell>
         <mxCell id="2OAG4eOp1EBQrfEzibIT-41" value="故障诊断特征向量" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.datacenter;" vertex="1" parent="1">
-          <mxGeometry x="80" y="240" width="40" height="29.6" as="geometry" />
+          <mxGeometry x="80" y="240" width="67.57" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
