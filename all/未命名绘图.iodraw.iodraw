@@ -1,36 +1,9 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="emhLpGDSjGB5kLqIUGSS">
-    <mxGraphModel dx="640" dy="684" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="440" dy="684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2OAG4eOp1EBQrfEzibIT-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2OAG4eOp1EBQrfEzibIT-1" target="2OAG4eOp1EBQrfEzibIT-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="2OAG4eOp1EBQrfEzibIT-1" value="S1、通过多个传感器获取电动自行车的原始运行数据，对采集的原始运行数据进行预处理生成标准运行数据集CRD；" style="rounded=1;whiteSpace=wrap;align=left;fontSize=15;spacingLeft=2;" vertex="1" parent="1">
-          <mxGeometry x="40" y="40" width="480" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="2OAG4eOp1EBQrfEzibIT-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2OAG4eOp1EBQrfEzibIT-3" target="2OAG4eOp1EBQrfEzibIT-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="2OAG4eOp1EBQrfEzibIT-3" value="S2、基于标准运行数据集CRD，结合通过API接口从气象平台获取的的环境温度TEN，计算故障诊断的特征值，构成故障诊断特征向量DFV，提取出标准运行数据集CRD的车辆所处状态构成情境信息CTI；" style="rounded=1;whiteSpace=wrap;align=left;fontSize=15;spacingLeft=2;" vertex="1" parent="1">
-          <mxGeometry x="40" y="140" width="480" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="2OAG4eOp1EBQrfEzibIT-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2OAG4eOp1EBQrfEzibIT-4" target="2OAG4eOp1EBQrfEzibIT-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="2OAG4eOp1EBQrfEzibIT-4" value="S3、基于故障诊断特征向量DFV，构建整体故障风险评估算法，计算整体故障风险分数FRS，基于整体故障风险分数FRS与0级故障风险阈值FTL_0的对比结果和整体故障风险评估算法，进行故障点分析并生成故障点分析报告FPR；" style="rounded=1;whiteSpace=wrap;align=left;fontSize=15;spacingLeft=2;" vertex="1" parent="1">
-          <mxGeometry x="40" y="240" width="480" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="2OAG4eOp1EBQrfEzibIT-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2OAG4eOp1EBQrfEzibIT-5" target="2OAG4eOp1EBQrfEzibIT-6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="2OAG4eOp1EBQrfEzibIT-5" value="S4、基于情境信息CTI和整体故障风险分数FRS与预设的多级整体故障风险阈值集合FTL_g对比结果输出报警等级AL，结合报警等级AL与故障点分析报告FPR生成报警信息AIR并执行报警动作；" style="rounded=1;whiteSpace=wrap;align=left;fontSize=15;spacingLeft=2;" vertex="1" parent="1">
-          <mxGeometry x="40" y="360" width="480" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="2OAG4eOp1EBQrfEzibIT-6" value="S5、收集用户反馈数据UFD，将标准运行数据集CRD、故障诊断特征向量DFV、报警信息AIR和用户反馈数据UFD上传至云端数据库FED，基于云端数据库FED进行迭代优化。" style="rounded=1;whiteSpace=wrap;fontSize=15;align=left;spacingLeft=2;" vertex="1" parent="1">
-          <mxGeometry x="40" y="460" width="480" height="60" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
