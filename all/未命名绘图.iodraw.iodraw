@@ -174,15 +174,6 @@
         <mxCell id="2OAG4eOp1EBQrfEzibIT-82" value="云端数据库FED" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="480" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2OAG4eOp1EBQrfEzibIT-85" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="2OAG4eOp1EBQrfEzibIT-82">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="730" y="590" as="sourcePoint" />
-            <mxPoint x="800" y="500" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="2OAG4eOp1EBQrfEzibIT-86" value="迭代优化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="800" y="480" width="80" height="40" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
