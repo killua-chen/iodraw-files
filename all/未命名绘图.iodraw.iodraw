@@ -19,7 +19,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="2OAG4eOp1EBQrfEzibIT-50" value="标准运行数据集CRD" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="140" width="120" height="60" as="geometry" />
+          <mxGeometry x="180" y="140" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
