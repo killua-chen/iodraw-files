@@ -160,10 +160,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="2OAG4eOp1EBQrfEzibIT-81" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="2OAG4eOp1EBQrfEzibIT-81" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="2OAG4eOp1EBQrfEzibIT-74">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="570" y="570" as="sourcePoint" />
-            <mxPoint x="620" y="520" as="targetPoint" />
+            <mxPoint x="600" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
