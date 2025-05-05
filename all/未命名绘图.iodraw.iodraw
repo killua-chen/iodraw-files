@@ -27,7 +27,7 @@
             <mxPoint x="1" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2OAG4eOp1EBQrfEzibIT-23" value="API接口" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.networking;" vertex="1" parent="1">
+        <mxCell id="2OAG4eOp1EBQrfEzibIT-23" value="API接口" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.networking;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="150" y="40" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2OAG4eOp1EBQrfEzibIT-33" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;line-height: 0%;&quot;&gt;标准运行&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;line-height: 0%;&quot;&gt;数据集CRD&lt;/p&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#000000;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.datastore;gradientColor=none;spacingTop=-5;labelBackgroundColor=#FFFFFF;labelBorderColor=none;" vertex="1" parent="1">
@@ -39,7 +39,7 @@
         <mxCell id="2OAG4eOp1EBQrfEzibIT-41" value="故障诊断特征向量" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.datacenter;" vertex="1" parent="1">
           <mxGeometry x="80" y="240" width="40" height="29.6" as="geometry" />
         </mxCell>
-        <mxCell id="2OAG4eOp1EBQrfEzibIT-42" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="2OAG4eOp1EBQrfEzibIT-33" target="2OAG4eOp1EBQrfEzibIT-41">
+        <mxCell id="2OAG4eOp1EBQrfEzibIT-42" value="" style="endArrow=classic;html=1;rounded=0;labelBackgroundColor=default;" edge="1" parent="1" source="2OAG4eOp1EBQrfEzibIT-33" target="2OAG4eOp1EBQrfEzibIT-41">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="30" y="230" as="sourcePoint" />
             <mxPoint x="120" y="220" as="targetPoint" />
