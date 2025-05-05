@@ -67,7 +67,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="2OAG4eOp1EBQrfEzibIT-62" value="故障特征向量算法" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2OAG4eOp1EBQrfEzibIT-59">
+        <mxCell id="2OAG4eOp1EBQrfEzibIT-62" value="故障诊断特征向量算法" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2OAG4eOp1EBQrfEzibIT-59">
           <mxGeometry x="0.6119" y="1" relative="1" as="geometry">
             <mxPoint x="-1" as="offset" />
           </mxGeometry>
@@ -82,7 +82,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="2OAG4eOp1EBQrfEzibIT-61" value="故障诊断&lt;div&gt;特征向量DFV&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="340" width="80" height="40" as="geometry" />
+          <mxGeometry x="300" y="350" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
