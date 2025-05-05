@@ -24,7 +24,7 @@
         </mxCell>
         <mxCell id="2OAG4eOp1EBQrfEzibIT-31" value="气象平台" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2OAG4eOp1EBQrfEzibIT-29">
           <mxGeometry x="-0.0493" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="1" y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2OAG4eOp1EBQrfEzibIT-23" value="API接口" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.networking;" vertex="1" parent="1">
@@ -34,7 +34,7 @@
           <mxGeometry x="50.77000000000001" y="130" width="19.23" height="15" as="geometry" />
         </mxCell>
         <mxCell id="2OAG4eOp1EBQrfEzibIT-34" value="&lt;p style=&quot;line-height: 0%;&quot; class=&quot;MsoNormal&quot;&gt;环境温度TEN&lt;/p&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#000000;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.datastore;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="150.77" y="160" width="19.23" height="15" as="geometry" />
+          <mxGeometry x="150.77" y="130" width="19.23" height="15" as="geometry" />
         </mxCell>
         <mxCell id="2OAG4eOp1EBQrfEzibIT-41" value="故障诊断特征向量" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.datacenter;" vertex="1" parent="1">
           <mxGeometry x="130" y="280" width="50" height="37" as="geometry" />
