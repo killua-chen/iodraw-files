@@ -22,12 +22,12 @@
             <mxPoint x="180" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2OAG4eOp1EBQrfEzibIT-31" value="气象平台" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2OAG4eOp1EBQrfEzibIT-29">
+        <mxCell id="2OAG4eOp1EBQrfEzibIT-31" value="气象平台" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;" vertex="1" connectable="0" parent="2OAG4eOp1EBQrfEzibIT-29">
           <mxGeometry x="-0.0493" y="-1" relative="1" as="geometry">
             <mxPoint x="1" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2OAG4eOp1EBQrfEzibIT-23" value="API接口" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.networking;labelBackgroundColor=default;fontSize=11;" vertex="1" parent="1">
+        <mxCell id="2OAG4eOp1EBQrfEzibIT-23" value="API接口" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.networking;labelBackgroundColor=default;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="150" y="40" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2OAG4eOp1EBQrfEzibIT-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2OAG4eOp1EBQrfEzibIT-33" target="2OAG4eOp1EBQrfEzibIT-41">
@@ -44,6 +44,10 @@
         <mxCell id="2OAG4eOp1EBQrfEzibIT-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2OAG4eOp1EBQrfEzibIT-34">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="160.38499999999993" y="225" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="160" y="200" />
+              <mxPoint x="160" y="200" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="2OAG4eOp1EBQrfEzibIT-34" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;line-height: 0%; font-size: 10px;&quot;&gt;环境温度TEN&lt;/p&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#000000;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.datastore;gradientColor=none;spacingTop=0;labelBackgroundColor=default;fontSize=10;" vertex="1" parent="1">
