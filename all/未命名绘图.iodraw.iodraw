@@ -39,6 +39,12 @@
         <mxCell id="2OAG4eOp1EBQrfEzibIT-41" value="故障诊断特征向量" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.datacenter;" vertex="1" parent="1">
           <mxGeometry x="90" y="240" width="50" height="37" as="geometry" />
         </mxCell>
+        <mxCell id="2OAG4eOp1EBQrfEzibIT-42" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="2OAG4eOp1EBQrfEzibIT-33">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="30" y="230" as="sourcePoint" />
+            <mxPoint x="80" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
