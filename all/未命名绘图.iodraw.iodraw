@@ -7,6 +7,12 @@
         <mxCell id="2OAG4eOp1EBQrfEzibIT-47" value="多个传感器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="40" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="2OAG4eOp1EBQrfEzibIT-48" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="2OAG4eOp1EBQrfEzibIT-47">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="290" as="sourcePoint" />
+            <mxPoint x="240" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
