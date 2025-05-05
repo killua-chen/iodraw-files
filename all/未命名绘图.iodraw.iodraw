@@ -6,8 +6,8 @@
         <mxCell id="1" parent="0" />
         <mxCell id="2OAG4eOp1EBQrfEzibIT-48" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="2OAG4eOp1EBQrfEzibIT-50">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="240" y="80" as="sourcePoint" />
-            <mxPoint x="240" y="140" as="targetPoint" />
+            <mxPoint x="274" y="190" as="sourcePoint" />
+            <mxPoint x="274" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2OAG4eOp1EBQrfEzibIT-49" value="采集并预处理" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2OAG4eOp1EBQrfEzibIT-48">
@@ -16,24 +16,24 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="2OAG4eOp1EBQrfEzibIT-50" value="标准运行&lt;div&gt;数据集CRD&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="140" width="80" height="50" as="geometry" />
+          <mxGeometry x="234" y="250" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="2OAG4eOp1EBQrfEzibIT-51" value="环境温度TEN" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="140" width="80" height="50" as="geometry" />
+          <mxGeometry x="334" y="250" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="2OAG4eOp1EBQrfEzibIT-52" value="多个传感器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="40" width="80" height="40" as="geometry" />
+          <mxGeometry x="234" y="150" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2OAG4eOp1EBQrfEzibIT-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2OAG4eOp1EBQrfEzibIT-53" target="2OAG4eOp1EBQrfEzibIT-51">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2OAG4eOp1EBQrfEzibIT-55" value="气象平台" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2OAG4eOp1EBQrfEzibIT-54">
           <mxGeometry x="-0.119" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-2" y="4" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2OAG4eOp1EBQrfEzibIT-53" value="API接口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="40" width="80" height="40" as="geometry" />
+          <mxGeometry x="334" y="150" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
