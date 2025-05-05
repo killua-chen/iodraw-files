@@ -46,7 +46,7 @@
             <mxPoint x="160.38499999999993" y="225" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2OAG4eOp1EBQrfEzibIT-34" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;line-height: 0%;&quot;&gt;环境温度TEN&lt;/p&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#000000;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.datastore;gradientColor=none;spacingTop=0;labelBackgroundColor=default;" vertex="1" parent="1">
+        <mxCell id="2OAG4eOp1EBQrfEzibIT-34" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;line-height: 0%; font-size: 10px;&quot;&gt;环境温度TEN&lt;/p&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#000000;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.datastore;gradientColor=none;spacingTop=0;labelBackgroundColor=default;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="150.77" y="130" width="19.23" height="15" as="geometry" />
         </mxCell>
         <mxCell id="2OAG4eOp1EBQrfEzibIT-41" value="故障诊断特征向量" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.datacenter;" vertex="1" parent="1">
