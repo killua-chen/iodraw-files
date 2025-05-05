@@ -17,7 +17,7 @@
         <mxCell id="2OAG4eOp1EBQrfEzibIT-22" value="多个传感器" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.cpu;" vertex="1" parent="1">
           <mxGeometry x="70" y="85" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="2OAG4eOp1EBQrfEzibIT-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2OAG4eOp1EBQrfEzibIT-23">
+        <mxCell id="2OAG4eOp1EBQrfEzibIT-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2OAG4eOp1EBQrfEzibIT-23" target="2OAG4eOp1EBQrfEzibIT-34">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="180" y="180" as="targetPoint" />
           </mxGeometry>
@@ -34,7 +34,7 @@
           <mxGeometry x="210" y="85" width="19.23" height="15" as="geometry" />
         </mxCell>
         <mxCell id="2OAG4eOp1EBQrfEzibIT-34" value="&lt;p style=&quot;line-height: 0%;&quot; class=&quot;MsoNormal&quot;&gt;标准运行&lt;/p&gt;&lt;p style=&quot;line-height: 0%;&quot; class=&quot;MsoNormal&quot;&gt;数据集CRD&lt;/p&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#000000;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.datastore;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="220" y="95" width="19.23" height="15" as="geometry" />
+          <mxGeometry x="210" y="172.5" width="19.23" height="15" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
