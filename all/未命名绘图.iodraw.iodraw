@@ -42,6 +42,17 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="130" as="sourcePoint" />
             <mxPoint x="450" y="80" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="320" y="130" />
+              <mxPoint x="280" y="130" />
+              <mxPoint x="274" y="130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2OAG4eOp1EBQrfEzibIT-58" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="2OAG4eOp1EBQrfEzibIT-53">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="130" as="sourcePoint" />
+            <mxPoint x="400" y="100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
