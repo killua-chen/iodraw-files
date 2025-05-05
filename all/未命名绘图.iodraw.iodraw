@@ -35,8 +35,8 @@
         <mxCell id="2OAG4eOp1EBQrfEzibIT-53" value="API接口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="334" y="150" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2OAG4eOp1EBQrfEzibIT-56" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="50" width="120" height="60" as="geometry" />
+        <mxCell id="2OAG4eOp1EBQrfEzibIT-56" value="数据采集" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="50" width="60" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
