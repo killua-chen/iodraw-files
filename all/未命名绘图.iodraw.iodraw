@@ -28,7 +28,7 @@
         <mxCell id="2OAG4eOp1EBQrfEzibIT-5" value="S4、基于情境信息CTI和整体故障风险分数FRS与预设的多级整体故障风险阈值集合FTL_g对比结果输出报警等级AL，结合报警等级AL与故障点分析报告FPR生成报警信息AIR并执行报警动作；" style="rounded=1;whiteSpace=wrap;align=left;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="40" y="360" width="480" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2OAG4eOp1EBQrfEzibIT-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2OAG4eOp1EBQrfEzibIT-6" value="S5、收集用户反馈数据UFD，将标准运行数据集CRD、故障诊断特征向量DFV、报警信息AIR和用户反馈数据UFD上传至云端数据库FED，基于云端数据库FED进行迭代优化。" style="rounded=1;whiteSpace=wrap;fontSize=15;align=left;" vertex="1" parent="1">
           <mxGeometry x="40" y="460" width="480" height="60" as="geometry" />
         </mxCell>
       </root>
