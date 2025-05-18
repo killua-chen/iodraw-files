@@ -38,8 +38,8 @@
             <mxPoint x="80" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cJCYh4VA6AZTwCQx1l4y-15" value="区域有效函数总合f" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="240" width="120" height="60" as="geometry" />
+        <mxCell id="cJCYh4VA6AZTwCQx1l4y-15" value="区域有效&#xa;函数总合f" style="rounded=0;whiteSpace=wrap;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="20" y="240" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
