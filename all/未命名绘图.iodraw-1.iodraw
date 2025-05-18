@@ -7,7 +7,7 @@
         <mxCell id="cJCYh4VA6AZTwCQx1l4y-1" value="数据输入" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="120" y="40" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cJCYh4VA6AZTwCQx1l4y-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="cJCYh4VA6AZTwCQx1l4y-1">
+        <mxCell id="cJCYh4VA6AZTwCQx1l4y-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cJCYh4VA6AZTwCQx1l4y-1" target="cJCYh4VA6AZTwCQx1l4y-12">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="190" y="270" as="sourcePoint" />
             <mxPoint x="240" y="160" as="targetPoint" />
@@ -29,8 +29,14 @@
         <mxCell id="cJCYh4VA6AZTwCQx1l4y-11" value="预测质量特征&#xa;向量VPQ" style="rounded=0;whiteSpace=wrap;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="30" y="160" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cJCYh4VA6AZTwCQx1l4y-12" value="预测质量特征&#xa;向量VPQ" style="rounded=0;whiteSpace=wrap;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="cJCYh4VA6AZTwCQx1l4y-12" value="运行特征&#xa;向量VPS" style="rounded=0;whiteSpace=wrap;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="190" y="160" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cJCYh4VA6AZTwCQx1l4y-13" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="310" as="sourcePoint" />
+            <mxPoint x="120" y="260" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
