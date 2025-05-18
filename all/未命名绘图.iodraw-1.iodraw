@@ -52,7 +52,7 @@
             <mxPoint x="240" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cJCYh4VA6AZTwCQx1l4y-18" value="偏离成本惩罚总和Pdev_sum" style="rounded=0;whiteSpace=wrap;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="cJCYh4VA6AZTwCQx1l4y-18" value="偏离成本惩罚总和Pdev_sum" style="rounded=0;whiteSpace=wrap;fontSize=15;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="190" y="280" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
