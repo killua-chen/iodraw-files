@@ -103,7 +103,7 @@
           <mxGeometry x="540" y="380" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cJCYh4VA6AZTwCQx1l4y-30" value="no" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="520" width="80" height="40" as="geometry" />
+          <mxGeometry x="540" y="500" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cJCYh4VA6AZTwCQx1l4y-33" value="生成决策信号Sig并赋值为False" style="rounded=1;whiteSpace=wrap;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="660" y="380" width="120" height="40" as="geometry" />
@@ -119,6 +119,12 @@
               <mxPoint x="520" y="460" />
               <mxPoint x="520" y="400" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cJCYh4VA6AZTwCQx1l4y-38" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="580" as="sourcePoint" />
+            <mxPoint x="500" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
