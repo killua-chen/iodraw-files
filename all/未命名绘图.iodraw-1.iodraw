@@ -4,10 +4,13 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="cJCYh4VA6AZTwCQx1l4y-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cJCYh4VA6AZTwCQx1l4y-1" target="cJCYh4VA6AZTwCQx1l4y-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="cJCYh4VA6AZTwCQx1l4y-1" value="多种传感器" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="120" y="40" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cJCYh4VA6AZTwCQx1l4y-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cJCYh4VA6AZTwCQx1l4y-2" value="运行特征向量VPS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="120" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
