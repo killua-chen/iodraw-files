@@ -27,7 +27,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cJCYh4VA6AZTwCQx1l4y-11" value="预测质量特征&#xa;向量VPQ" style="rounded=0;whiteSpace=wrap;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="20" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="30" y="160" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cJCYh4VA6AZTwCQx1l4y-12" value="预测质量特征&#xa;向量VPQ" style="rounded=0;whiteSpace=wrap;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="190" y="160" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
