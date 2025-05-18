@@ -118,6 +118,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="cJCYh4VA6AZTwCQx1l4y-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cJCYh4VA6AZTwCQx1l4y-30" target="cJCYh4VA6AZTwCQx1l4y-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="cJCYh4VA6AZTwCQx1l4y-30" value="no" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="600" width="80" height="40" as="geometry" />
         </mxCell>
@@ -129,6 +132,9 @@
         </mxCell>
         <mxCell id="cJCYh4VA6AZTwCQx1l4y-33" value="生成决策信号Sig并赋值为False" style="rounded=1;whiteSpace=wrap;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="20" y="680" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cJCYh4VA6AZTwCQx1l4y-34" value="生成决策信号Sig并赋值为False" style="rounded=1;whiteSpace=wrap;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="180" y="680" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
