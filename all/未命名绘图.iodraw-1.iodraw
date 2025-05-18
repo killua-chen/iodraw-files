@@ -96,11 +96,14 @@
         <mxCell id="cJCYh4VA6AZTwCQx1l4y-26" value="判断：饲料质量指数SIFQ＜预设的饲料质量阈值SIFQ_th" style="rounded=0;whiteSpace=wrap;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="280" y="440" width="220" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="cJCYh4VA6AZTwCQx1l4y-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cJCYh4VA6AZTwCQx1l4y-28" target="cJCYh4VA6AZTwCQx1l4y-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="cJCYh4VA6AZTwCQx1l4y-28" value="yes" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="380" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cJCYh4VA6AZTwCQx1l4y-30" value="no" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="600" width="80" height="40" as="geometry" />
+          <mxGeometry x="540" y="520" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cJCYh4VA6AZTwCQx1l4y-33" value="生成决策信号Sig并赋值为False" style="rounded=1;whiteSpace=wrap;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="660" y="380" width="120" height="40" as="geometry" />
