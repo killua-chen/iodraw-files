@@ -33,7 +33,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cJCYh4VA6AZTwCQx1l4y-8" value="关键质量指标预测算法的固有系数集合SCA" style="rounded=0;whiteSpace=wrap;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="205" y="240" width="155" height="60" as="geometry" />
+          <mxGeometry x="202.5" y="280" width="155" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
