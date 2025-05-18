@@ -70,6 +70,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="cJCYh4VA6AZTwCQx1l4y-23" value="构建综合饲料质量指数算法" style="edgeLabel;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cJCYh4VA6AZTwCQx1l4y-20">
+          <mxGeometry x="0.7556" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="cJCYh4VA6AZTwCQx1l4y-21" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="cJCYh4VA6AZTwCQx1l4y-18">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="150" y="400" as="sourcePoint" />
