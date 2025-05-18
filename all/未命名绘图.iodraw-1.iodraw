@@ -93,8 +93,8 @@
             <mxPoint x="160" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cJCYh4VA6AZTwCQx1l4y-25" value="饲料质量指数SIFQ＜&#xa;预设的饲料质量阈值SIFQ_th" style="rhombus;whiteSpace=wrap;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="40" y="520" width="240" height="100" as="geometry" />
+        <mxCell id="cJCYh4VA6AZTwCQx1l4y-25" value="饲料质量指数SIFQ＜&#xa;预设的饲料质量阈值SIFQ_th" style="rhombus;whiteSpace=wrap;fontSize=15;spacingBottom=10;" vertex="1" parent="1">
+          <mxGeometry x="40" y="520" width="240" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
