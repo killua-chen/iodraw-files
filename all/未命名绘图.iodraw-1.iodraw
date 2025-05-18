@@ -18,6 +18,9 @@
         <mxCell id="cJCYh4VA6AZTwCQx1l4y-2" value="运行特征&lt;div&gt;向量VPS&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="120" y="140" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="cJCYh4VA6AZTwCQx1l4y-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="140" width="120" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
