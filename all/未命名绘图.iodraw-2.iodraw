@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="OVGUiTkDdbgGE4H7VDXO">
-    <mxGraphModel dx="1426" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1188" dy="689" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -42,7 +42,7 @@
             <mxPoint x="340" y="520" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GoVPbls4bU-fq1rmexke-11" value="S1、通过传感器获取建筑结构原始三维点云数据，对原始三维点云数据进行预处理得到标准化三维点云数据，根据标准化三维点云数据进行几何拟合，创建建筑结构模型；" style="rounded=1;whiteSpace=wrap;align=left;fontSize=15;spacing=4;" vertex="1" parent="1">
+        <mxCell id="GoVPbls4bU-fq1rmexke-11" value="S6、基于评估决策对新建筑装修模型进行调整处理，根据处理结果获取最终方案。" style="rounded=1;whiteSpace=wrap;align=left;fontSize=15;spacing=4;" vertex="1" parent="1">
           <mxGeometry x="120" y="560" width="440" height="60" as="geometry" />
         </mxCell>
       </root>
