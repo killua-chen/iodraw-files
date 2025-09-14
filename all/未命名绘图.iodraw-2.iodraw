@@ -37,6 +37,14 @@
         <mxCell id="GoVPbls4bU-fq1rmexke-9" value="S1、通过传感器获取建筑结构原始三维点云数据，对原始三维点云数据进行预处理得到标准化三维点云数据，根据标准化三维点云数据进行几何拟合，创建建筑结构模型；" style="rounded=1;whiteSpace=wrap;align=left;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="120" y="440" width="440" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="GoVPbls4bU-fq1rmexke-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="GoVPbls4bU-fq1rmexke-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="500" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GoVPbls4bU-fq1rmexke-11" value="S1、通过传感器获取建筑结构原始三维点云数据，对原始三维点云数据进行预处理得到标准化三维点云数据，根据标准化三维点云数据进行几何拟合，创建建筑结构模型；" style="rounded=1;whiteSpace=wrap;align=left;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="120" y="540" width="440" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
