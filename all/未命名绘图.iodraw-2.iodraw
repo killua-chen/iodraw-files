@@ -10,40 +10,40 @@
         <mxCell id="GoVPbls4bU-fq1rmexke-1" value="S1、通过传感器获取建筑结构原始三维点云数据，对原始三维点云数据进行预处理得到标准化三维点云数据，根据标准化三维点云数据进行几何拟合，创建建筑结构模型；" style="rounded=1;whiteSpace=wrap;align=left;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="120" y="40" width="440" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GoVPbls4bU-fq1rmexke-2" value="S1、通过传感器获取建筑结构原始三维点云数据，对原始三维点云数据进行预处理得到标准化三维点云数据，根据标准化三维点云数据进行几何拟合，创建建筑结构模型；" style="rounded=1;whiteSpace=wrap;align=left;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="GoVPbls4bU-fq1rmexke-2" value="S2、基于建筑结构模型和用户提供的参考图片，使用卷积神经网络构建风格特征提取算法，提取参考图片特征得到风格特征向量，并通过生成对抗网络的3D风格迁移模型，获取初步的建筑装修模型；" style="rounded=1;whiteSpace=wrap;align=left;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="120" y="140" width="440" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GoVPbls4bU-fq1rmexke-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="GoVPbls4bU-fq1rmexke-5">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="340" y="200" as="sourcePoint" />
+            <mxPoint x="340" y="220" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GoVPbls4bU-fq1rmexke-5" value="S1、通过传感器获取建筑结构原始三维点云数据，对原始三维点云数据进行预处理得到标准化三维点云数据，根据标准化三维点云数据进行几何拟合，创建建筑结构模型；" style="rounded=1;whiteSpace=wrap;align=left;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="120" y="240" width="440" height="60" as="geometry" />
+          <mxGeometry x="120" y="260" width="440" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GoVPbls4bU-fq1rmexke-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="GoVPbls4bU-fq1rmexke-7">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="340" y="300" as="sourcePoint" />
+            <mxPoint x="340" y="320" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GoVPbls4bU-fq1rmexke-7" value="S1、通过传感器获取建筑结构原始三维点云数据，对原始三维点云数据进行预处理得到标准化三维点云数据，根据标准化三维点云数据进行几何拟合，创建建筑结构模型；" style="rounded=1;whiteSpace=wrap;align=left;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="120" y="340" width="440" height="60" as="geometry" />
+          <mxGeometry x="120" y="360" width="440" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GoVPbls4bU-fq1rmexke-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="GoVPbls4bU-fq1rmexke-9">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="340" y="400" as="sourcePoint" />
+            <mxPoint x="340" y="420" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GoVPbls4bU-fq1rmexke-9" value="S1、通过传感器获取建筑结构原始三维点云数据，对原始三维点云数据进行预处理得到标准化三维点云数据，根据标准化三维点云数据进行几何拟合，创建建筑结构模型；" style="rounded=1;whiteSpace=wrap;align=left;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="120" y="440" width="440" height="60" as="geometry" />
+          <mxGeometry x="120" y="460" width="440" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GoVPbls4bU-fq1rmexke-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="GoVPbls4bU-fq1rmexke-11">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="340" y="500" as="sourcePoint" />
+            <mxPoint x="340" y="520" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GoVPbls4bU-fq1rmexke-11" value="S1、通过传感器获取建筑结构原始三维点云数据，对原始三维点云数据进行预处理得到标准化三维点云数据，根据标准化三维点云数据进行几何拟合，创建建筑结构模型；" style="rounded=1;whiteSpace=wrap;align=left;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="120" y="540" width="440" height="60" as="geometry" />
+          <mxGeometry x="120" y="560" width="440" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
